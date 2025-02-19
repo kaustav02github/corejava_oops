@@ -12,7 +12,7 @@ class Counter{
 
 public class DemoThreads2 {
     public static void main(String[] args) throws InterruptedException {
-        
+    
     
     //i will make 2 annoymous object classes
     Counter c =new Counter();
